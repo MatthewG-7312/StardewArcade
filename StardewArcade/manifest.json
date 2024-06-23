@@ -1,0 +1,10 @@
+{
+    "Name": "StardewArcade",
+    "Author": "QuietQuacks",
+    "Version": "1.0.0",
+    "Description": "Adds an arcade to the game and overhauls existing games",
+    "UniqueID": "QuietQuacks.StardewArcade",
+    "EntryDll": "StardewArcade.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
